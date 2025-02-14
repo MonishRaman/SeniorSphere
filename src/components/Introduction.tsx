@@ -19,11 +19,10 @@ function Introduction({
   onBack: () => void;
 }) {
   const messages = [
-    `Welcome to Senior Sphere, ${userName}! I'll be your guide on this wonderful journey through India's rich culture and heritage.`,
-    "Get ready to explore famous landmarks, delicious cuisines, and fascinating traditions!",
-    "Through fun and interactive games, you'll uncover the stories that shaped India's history.",
-    "Complete challenges, unlock new states, and embark on a learning adventure like never before!",
-    "Let's begin this exciting journey together!"
+    `Welcome to Senior Sphere, ${userName}! Get ready to explore India’s rich culture, famous landmarks, and delicious cuisines.`,
+"Through fun and interactive games, you'll uncover fascinating stories from history and traditions.",
+"Complete challenges, unlock new places, and embark on an exciting learning adventure!,Let's get started!",
+
   ];
 
   const [currentMessageIndex, setCurrentMessageIndex] = useState(0);
