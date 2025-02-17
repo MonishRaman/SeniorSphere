@@ -153,7 +153,7 @@ function GameMap({ onBack }: { onBack: () => void }) {
                 Explore Incredible India
               </motion.h2>
 
-              <div className="relative w-full h-screen mx-auto">
+              <div className=" mx-auto">
                 {/* India Map */}
                 <div className="map-container">
                   <img src={IndiaMapImage} alt="India Map" className="map-image" />
