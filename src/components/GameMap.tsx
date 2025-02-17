@@ -31,8 +31,8 @@ const STATES = [
   { 
     id: 'kerala',
     name: 'Kerala',
-    x: 280,
-    y: 600,
+    x: 185,
+    y: 650,
     color: '#4ECDC4',
     video: 'https://player.vimeo.com/video/123456790',
     places: [
@@ -51,7 +51,7 @@ const STATES = [
   {
     id: 'rajasthan',
     name: 'Rajasthan',
-    x: 200,
+    x: 140,
     y: 300,
     color: '#FF6B6B',
     video: 'https://player.vimeo.com/video/123456791',
@@ -71,8 +71,8 @@ const STATES = [
   {
     id: 'tamil-nadu',
     name: 'Tamil Nadu',
-    x: 320,
-    y: 580,
+    x: 240,
+    y: 670,
     color: '#4ECDC4',
     video: 'https://player.vimeo.com/video/123456792',
     places: [
@@ -91,7 +91,7 @@ const STATES = [
   {
     id: 'gujarat',
     name: 'Gujarat',
-    x: 150,
+    x: 100,
     y: 350,
     color: '#FF6B6B',
     video: 'https://player.vimeo.com/video/123456793',
