@@ -11,8 +11,8 @@ const STATES = [
   { 
     id: 'maharashtra',
     name: 'Maharashtra',
-    x: 300,
-    y: 400,
+    x: 150,
+    y: 450,
     color: '#FF6B6B',
     video: 'https://player.vimeo.com/video/123456789',
     places: [
